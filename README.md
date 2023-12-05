@@ -3,7 +3,7 @@
     </h1>
 <br>
 <h2>📚 Tentando programar em java...</h2>
-<h3>👨‍🔧 Atualmente freelancer, logo logo Dev Backend</h3>
+<h3>👨‍🔧 Atualmente freelancer, logo logo Dev Back-end</h3>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
