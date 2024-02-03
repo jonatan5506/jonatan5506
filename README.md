@@ -8,7 +8,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">🛠️Linguagens-Frameworks🛠️</h1>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,java,javascript"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,java,javascript,postgresql"/>
    </div>
     
   
