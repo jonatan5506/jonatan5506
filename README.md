@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&&width=500&height=70&duration=4000&lines=Olá!+me+chamo+Jonatan!;"/>
     </h1>
 <br>
-<h2>📚 Tentando programar em java...</h2>
+<h2>📚 Tentando programar em Js...</h2>
 <h3>👨‍🔧 Atualmente freelancer, logo logo Dev Back-end</h3>
 <div  align="center"> 
   <div style="display: inline_block"><br>
